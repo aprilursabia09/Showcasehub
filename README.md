@@ -10,6 +10,15 @@ A Django-based web application for showcasing products with teaser and catalog s
 - Automatic move to catalog with category filtering
 - User-friendly interface with animations
 
+
+## GROUP MEMBERS
+Kalachuchi Thrift Store Showcase hub
+Group Members:
+April Ursabia
+Christian Magsanay
+Luigi Bardillon
+James Refrozado
+
 ## 🛠️ How to Run
 
 ### 1. Clone the repository
@@ -24,9 +33,3 @@ cd showcasehub
 3. python manage.py runserver
 
 
-Kalachuchi Thrift Store Showcase hub
-Group Members:
-April Ursabia
-Christian Magsanay
-Luigi Bardillon
-James Refrozado
