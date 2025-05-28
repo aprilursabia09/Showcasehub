@@ -13,7 +13,6 @@ A Django-based web application for showcasing products with teaser and catalog s
 
 ## GROUP MEMBERS
 Kalachuchi Thrift Store Showcase hub
-- Group Members:
 - April Ursabia
 - Christian Magsanay
 - Luigi Bardillon
